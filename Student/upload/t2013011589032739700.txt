@@ -1,0 +1,2 @@
+--wjetestdnslst-----0210-----dnslst:[202.206.100.36]------
+--wjetestdnslst-----0210-----dnslst:[101.7.8.9]------
